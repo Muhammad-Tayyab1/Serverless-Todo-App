@@ -1,0 +1,12 @@
+{
+  "name": "Serverless-Todo-App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Muhammad-Tayyab1/Serverless-Todo-App.git",
+  "author": "Muhammad-Tayyab1 <66192491+Muhammad-Tayyab1@users.noreply.github.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ]
+}
